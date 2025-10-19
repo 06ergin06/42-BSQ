@@ -6,7 +6,7 @@
 /*   By: iergin <iergin@student.42istanbul.com>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/10/13 12:19:58 by iergin            #+#    #+#             */
-/*   Updated: 2025/10/15 12:31:34 by iergin           ###   ########.fr       */
+/*   Updated: 2025/10/19 21:55:34 by iergin           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,6 @@
 void	map_error(void)
 {
 	write(1, "map error\n", 10);
-	exit(1);
 }
 
 void	*free_buf(char *buf)
