@@ -1,6 +1,6 @@
 # 42 C-Piscine’s final project
 
-This is a group project at 42. I worked with Ömer Recep Dindar.
+This is a group project at 42. I worked with [Ömer Recep Dindar](https://github.com/Slyord) (Slyord).
 
 Project subject : [Link](https://github.com/06ergin06/42-BSQ/blob/main/en.subject.pdf)
 
